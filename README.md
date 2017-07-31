@@ -12,3 +12,6 @@ In edit or modify function user require to fill up ID form. And fill up either N
 In delete, user only need to fill up ID form.
 
 In show all, user doesn’t need to fill up anything.
+
+The main code path is : simpleJSP_SQL/WebApplication/web/
+
